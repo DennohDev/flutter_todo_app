@@ -1,6 +1,8 @@
 # flutter_todo_app
 
-A new Flutter project.
+This is a simple to do List app for learning purposes.
+NB: The Data is erased when you exit the app.(There is no Backend for this app)
+
 
 ## Getting Started
 
